@@ -165,8 +165,8 @@ class Contact {
 class Demo {
 
     //public static Contact[] contactArray = new Contact[0];
-    public static ContactList contactList = new ContactList(100, 50);// ----------------------CLEAR CONSOLE --------------------
-
+    public static ContactList contactList = new ContactList(100, 50);
+    
     // ----------------------CLEAR CONSOLE --------------------
     public final static void clearConsole() {
         try {
